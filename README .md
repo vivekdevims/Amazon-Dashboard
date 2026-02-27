@@ -346,3 +346,4 @@ SUMX(BottomProducts, [Product Revenue])
 
 This Power BI dashboard provides a structured and strategic analysis of Amazon-style e-commerce data, helping management make informed decisions about revenue growth, product optimization, and operational risk management.
 
+
